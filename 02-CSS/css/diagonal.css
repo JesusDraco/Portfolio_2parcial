@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+}
+
+.top-conteiner {
+    background-color: blue;
+    border: black solid 10px;
+    padding: 20px;
+
+}
+
+.middle-conteiner {
+    background-color: red;
+    border: black solid 20px;
+    margin-left: 260px;
+}
+
+.bottom-conteiner {
+    background-color: yellow;
+    border: black solid 10px;
+    margin-left: 500px;
+}
